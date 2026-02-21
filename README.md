@@ -10,6 +10,7 @@ Software Engineer and Founder. I build systems that address structural inefficie
 **[Linkd-Protocol-Soroban](https://github.com/Linkd-Fund/linkd-protocol-soroban)** Smart contracts for milestone-locked fundraising on the Stellar network. Built to enforce accountability in social innovation and decentralized finance.
 
 **[TaxID](https://github.com/Linkd-TaxID)** Middleware orchestration for KRA VSCU management and tax compliance.
+
 **[Link-Fund](https://github.com/Linkd-Fund)** A real-time verification protocol for charitable funds, enforcing structural accountability from donation to deployment.
 
 ---
