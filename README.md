@@ -13,7 +13,6 @@ Middleware orchestration for KRA VSCU management and tax compliance.
 A real-time verification protocol for charitable funds, enforcing structural accountability from donation to deployment.
 * **[linkd-protocol-soroban](https://github.com/Linkd-Fund/linkd-protocol-soroban)** Smart contracts for milestone-locked fundraising on the Stellar network.
 * **[linkd-ts-sdk](https://github.com/Linkd-Fund/linkd-ts-sdk)** TypeScript SDK abstracting Stellar XDR encoding into strictly non-custodial functions.
-* **[linkd-app](https://github.com/Linkd-Fund/linkd-app)** Consumer and administrative application orchestrating AI auditing with KRA eTIMS.
 * **[linkd-mcp-server](https://github.com/Linkd-Fund/linkd-mcp-server)** MCP server exposing escrow and verification tools to autonomous AI agents.
 
 ---
