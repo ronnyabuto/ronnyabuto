@@ -5,7 +5,7 @@ Software Engineer and Founder. I build systems that address structural inefficie
 
 ### Focused Projects
 
-**[kra-etims-sdk](https://github.com/Linkd-TaxID/kra-etims-sdk)** A developer-centric client library for Kenyan eTIMS integration. Handles GavaConnect handshakes, payload construction, and common API edge cases.
+**[kra-etims-sdk](https://github.com/Linkd-TaxID/kra-etims-sdk)** Python SDK for KRA eTIMS & GavaConnect.
 
 **[Linkd-Protocol-Soroban](https://github.com/Linkd-Fund/linkd-protocol-soroban)** Smart contracts for milestone-locked fundraising on the Stellar network. Built to enforce accountability in social innovation and decentralized finance.
 
